@@ -19,7 +19,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Currently, I'm working as a full-stack developer on an ecosystem using TypeScript, Kotlin, Node.js, Next.js, and Kotlin Multiplatform Mobile.**
+- 💼 I'm currently working on: **Currently, I'm working as a full-stack developer on an ecosystem using TypeScript, JavaScript, Node.js, Next.js, and Kotlin Multiplatform Mobile.**
 - 🌱 I'm currently learning: **Docker, AWS**
 - ⚡ Fun fact: ** I don't fear challenges, only the lack of time. 🥲🫣**
 
