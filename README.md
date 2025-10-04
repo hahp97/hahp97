@@ -1,7 +1,5 @@
 ![👋 Hi, Im Hayden Nguyen](https://scrimba.com/articles/content/images/size/w2000/2022/08/Coding-or-Programming_-What-Is-the-Difference_-main-1.png)
 
-![Profile views](https://komarev.com/ghpvc/?username=https://github.com/hahp97&label=Profile%20views&color=0e75b6&style=flat)
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
